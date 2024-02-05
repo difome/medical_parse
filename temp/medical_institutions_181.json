@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Фельдшерський пункт с. Гребельки",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/polikliniki/item/15304-feldsherskij-punkt-s-grebelki.html",
+        "city": "Киевская область"
+    },
+    {
+        "name": "Фельдшерський пункт с.Михайлівка",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/polikliniki/item/15305-feldsherskij-punkt-smihajlivka.html",
+        "city": "Киевская область"
+    },
+    {
+        "name": "Фельдшерський пункт с.Соболівка",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/polikliniki/item/15306-feldsherskij-punkt-ssobolivka.html",
+        "city": "Киевская область"
+    },
+    {
+        "name": "Фельдшерський пункт с.Рожни",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/polikliniki/item/15307-feldsherskij-punkt-srozhni.html",
+        "city": "Киевская область"
+    },
+    {
+        "name": "Пологовий будинок",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/rodilnye-doma/item/15313-pologovij-budinok.html",
+        "city": "Ровно"
+    },
+    {
+        "name": "Ювілейний, ЦПМСД КЗ",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/polikliniki/item/15314-kz-cpmsd.html",
+        "city": "Ровно"
+    },
+    {
+        "name": "Рівненська міська стоматологічна поліклініка",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/polikliniki/item/15315-rivnenska-miska-stomatologichna-poliklinika.html",
+        "city": "Ровно"
+    },
+    {
+        "name": "Волинська обласна дитяча клінічна лікарня",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/bolnicy/item/15319-volinska-oblasna-ditjacha-klinichna-likarnja.html",
+        "city": ""
+    },
+    {
+        "name": "Волинський обласний шкірно-венерологічний диспансер",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/dispansery/item/15320-volinskij-oblasnij-shkirnovenerologichnij-dispanser.html",
+        "city": "Луцк"
+    },
+    {
+        "name": "Волинський обласний інформаційно-аналітичний  центр медичної статистики",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/obschestvennye-organizacii/item/15321-volinskij-oblasnij-informacijnoanalitichnij-centr-medichnoi-statistiki.html",
+        "city": "Луцк"
+    },
+    {
+        "name": "Волинське обласне патологоанатомічне бюро",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/obschestvennye-organizacii/item/15322-volinske-oblasne-patologoanatomichne-bjuro.html",
+        "city": "Луцк"
+    },
+    {
+        "name": "чугуївський райониий центр первинної медикосанітарної допомоги",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/polikliniki/item/15324-chuguivskij-rajoniij-centr-pervinnoi-medikosanitarnoi-dopomogi.html",
+        "city": "Харьковская область"
+    },
+    {
+        "name": "КЗОЗ ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ м. Ізюм",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/polikliniki/item/15328-kzoz-centr-pervinnoi-medikosanitarnoi-dopomogi-m-izjum.html",
+        "city": "Харьковская область"
+    },
+    {
+        "name": "Немировская центральная районная больница",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/bolnicy/item/15329-nemirovskaja-centralnaja-rajonnaja-bolnica.html",
+        "city": "Винницкая область"
+    },
+    {
+        "name": "КЗ \"Малинський міськрайонний центр первинної медико-санітарної допомоги\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/polikliniki/item/15347-kz-malinskij-miskrajonnij-centr-pervinnoi-medikosanitarnoi-dopomogi.html",
+        "city": "Житомирская область"
+    },
+    {
+        "name": "Балтская центральная районная больница",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/bolnicy/item/15412-komunalna-ustanova-baltska-centralna-rajonna-likarnja.html",
+        "city": "Одесская область"
+    },
+    {
+        "name": "Центр психологического лечения алкоголизма \"Сенс\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/obschestvennye-organizacii/item/15413-centr-psihologicheskogo-lechenija-alkogolizma-sens.html",
+        "city": "Киев"
+    },
+    {
+        "name": "ПАТ \"Завод \"Ситал\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/obschestvennye-organizacii/item/15417-pat-zavod-sital.html",
+        "city": "Ровненская область"
+    },
+    {
+        "name": "Медицинский центр \"ЭПИСТОМ\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/medicinskie-centry/item/15419-medicinskij-centr-jepistom.html",
+        "city": "Харьков"
+    },
+    {
+        "name": "Диагност КТ",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/lechebnodiagnosticheskie-centr/item/15420-diagnost-kt.html",
+        "city": "Киев"
+    },
+    {
+        "name": "тернопільський  обласний департамент охорони здоров'я",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/upravlenija-ohrany-zdorovja/item/15423-ternopilskij-oblasnij-departament-ohoroni-zdorovja.html",
+        "city": "Тернополь"
+    },
+    {
+        "name": "Перинатальный Центр г. Киева",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/rodilnye-doma/item/15427-perinatalnyj-tsentr-g-kieva.html",
+        "city": "Киев"
+    },
+    {
+        "name": "Винницкая областная санитарно-эпидемиологическая станция",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/obschestvennye-organizacii/item/15430-vinnickaja-oblastnaja-sanitarnojepidemiologicheskaja-stancija.html",
+        "city": "Винница"
+    },
+    {
+        "name": "Винницкий санаторий \"Радон\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/sanatorij/item/15431-vinnickij-sanatorij-radon.html",
+        "city": "Винницкая область"
+    },
+    {
+        "name": "Пансионат Ласточка",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/sanatorij/item/15432-pansionat-lastochka.html",
+        "city": "Винницкая область"
+    },
+    {
+        "name": "Санаторий \"Соколец\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/sanatorij/item/15433-sanatorij-sokolec.html",
+        "city": "Винницкая область"
+    },
+    {
+        "name": "Клиника стоматологии Гаврилюка",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/stomatologii/item/15434-klinika-stomatologii-gavriljuka.html",
+        "city": "Винницкая область"
+    },
+    {
+        "name": "Медицинский центр \"Лира\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/medicinskie-centry/item/15435-medicinskij-centr-lira.html",
+        "city": "Киев"
+    },
+    {
+        "name": "Медицинский центр \"Студия-32\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/stomatologii/item/15436-medicinskij-centr-studija32.html",
+        "city": "Киев"
+    },
+    {
+        "name": "Многопрофильный клинико-диагностический центр \"Мilner Мedical\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/kliniki/item/15475-milner-medical.html",
+        "city": "Харьков"
+    },
+    {
+        "name": "Пластический хирург Зыков Валентин Анатольевич",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/vneshtatnye-specialisty/item/15476-plasticheskij-hirurg-zykov-valentin-anatolevich.html",
+        "city": "Киев"
+    },
+    {
+        "name": "Клиника эстетической медицины и пластической хирургии Vidnova",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/kliniki/item/15480-klinika-esteticheskoj-meditsiny-i-plasticheskoj-hirurgii-vidnova.html",
+        "city": "Запорожье"
+    },
+    {
+        "name": "Центр репродуктивной медицины Nativita (Нативита)",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/medicinskie-centry/item/15482-centr-reproduktivnoj-mediciny-nativita.html",
+        "city": "Киев"
+    },
+    {
+        "name": "Диагностический центр «Доктор Филин»",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/lechebnodiagnosticheskie-centr/item/15483-diagnosticheskij-centr-doktor-filin.html",
+        "city": "Киев"
+    },
+    {
+        "name": "Отделение проктологии Киевской областной клинической больницы",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/bolnicy/item/15485-otdelenie-proktologii-kievskoj-oblastnoj-klinicheskoj-bolnicy.html",
+        "city": "Киев"
+    },
+    {
+        "name": "Медико-оздоровительный центр \"АНДРОМЕД\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/medicinskie-centry/item/15488-medikoozdorovitelnyj-centr-andromed.html",
+        "city": "Днепропетровская область"
+    },
+    {
+        "name": "ВРТ-Клиника репродуктивной медицины",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/kliniki/item/15493-artklinika-reproduktivnoj-mediciny.html",
+        "city": "Харьков"
+    },
+    {
+        "name": "Титаренко Анжела Николаевна, гинеколог",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/vneshtatnye-specialisty/item/15501-titarenko-anzhela-niklaevna-ginekolog.html",
+        "city": "Запорожье"
+    },
+    {
+        "name": "Клиника мужского здоровья \"Пан\"",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/kliniki/item/15527-klinika-muzhskogo-zdorovja-pan.html",
+        "city": "Киев"
+    },
+    {
+        "name": "Центр аппаратной и лазерной косметологии Slim",
+        "url": "https://zdorov-info.com.ua/meduchrezhdenija/medicinskie-centry/item/15528-centr-appartnoj-i-lazernoj-kosmetologii-slim.html",
+        "city": "Киев"
+    }
+]
